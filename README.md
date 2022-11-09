@@ -4,7 +4,7 @@
 
 > My main goals for this document are: 
 > 1) We want to set clear expectations about what the pre-work is and what is expected in terms of effort and what passing means *precisely* and
-> 2) Everything we expect them to learn and that we link to as an external learning resource has to have some kind of complementary quiz to test the material. I don't think it will be useful to the instructors or the students to throw a bunch of links at them that we never test them on, as the students will likely not engage with it deeply, and as an instructor we cannot actually expect that knowledge has already been absorbed.
+> 2) Everything we expect them to learn and that we link to as an external learning resource should have some kind of complementary quiz to test the material. I don't think it will be useful to the instructors or the students to throw a bunch of links at them that we never test them on, as the students will likely not engage with it deeply, and as an instructor we cannot actually expect that knowledge has already been absorbed.
 
 ## 📜 Course Description
 
@@ -15,8 +15,6 @@ Congratulations on your acceptance into Code Platoon - we are excited to have yo
 Code Platoon’s mission is to train military veterans and their spouses into professional DevOps engineers. The traditional approach to becoming a DevOps engineer usually begins with graduating from a 4 year university program in computer science and then working as a backend engineer for a few years. We’re trying to teach you the necessary skills in 4 months. As such, we are not going to be able to go into nearly as much background material as a traditional degree and our course will focus much more on the practical tools of the trade. The DevOps industry ultimately cares about one thing: “Can you deploy this codebase?” As a result, our course will be oriented around teaching you the skills necessary to accomplish this task in the timeframe we have available to us.
 
 ### Our Mission
-
-We want to be very clear from the beginning: 
 
 The success of Code Platoon is directly correlated with our alumni’s success. We do not wish to see any student fail. As such, we expect you to complete a set of pre-work to prove to us you are ready to participate in the full time program.
 
@@ -42,17 +40,15 @@ We expect you to both be responsive and organized in communicating with Code Pla
 > By the time this is finalized we will want concrete details including how they should share their certification status with us.
 
 #### Structure 
-Each week of the pre-work, you will be expected to watch the online tutorials we suggest, attend a group video conference, and solve programming challenges on CoderByte. Additionally, over the full course of the pre-work you will be expected to complete the AWS SkillBuilder Cloud Practitioner course in preparation for the certification exam.
-
-> @BenjaminCohen we need to work on the wording of this document given that we don't have weekly challenges, but rather there is only a single week with all the CoderByte challenges rolled together.
+For pre-work you will be expected to watch the online tutorials we suggest, attend weekly group video conferences, and solve programming challenges on CoderByte. Additionally, over the full course of the pre-work you will be expected to complete the AWS SkillBuilder Cloud Practitioner course in preparation for the certification exam.
 
 #### Grading
 The requirements for getting into the full-time program are:
 * Pass the AWS Cloud Practitioner Certification exam
 * Solve all of our Python programming challenges on CoderByte
-* Pass the Final Live Technical Assessment
+* Pass the final Live Technical Assessment
 
-> We need to clarify what grading/passing looks like for our own pre-work.
+> We need to clarify what grading/passing looks like as precisely as possible
 
 #### CoderByte
 The programming assignments can be found on CoderByte. CoderByte is a service that tests your Python coding knowledge. You can find the link to the coding challenges in the [Calendar](#calendar) section below.  
@@ -68,7 +64,7 @@ Before you officially start Code Platoon, you need to pass our Technical Assessm
 #### Computer Requirements
 For the Pre-Work you can do everything in any browser. 
 
-## Calendar
+## 🗓 Calendar
 
 This course has two types of learning material. The first is provided by AWS as an official course and certification to prove essential knowledge about the field of cloud computing and is not technically-oriented. The second will be provided by Code Platoon to add to this understanding with basic programming proficiency that we will expect you to walk in with day 1.
 
@@ -128,7 +124,7 @@ To help you pass the certification exam we recommend two free resources provided
 > this is way too long to expect anyone to complete in time but it's a good single comprehensive resource to point our more eager students towards
 
 
-## Final Assessment
+## 👨‍💻 Final Assessment
 
 Final Live Technical and Coding Assessment (must be completed by Xth May, 2023)
 
@@ -141,7 +137,7 @@ This intro call is to outline what’s expected over the next 4-6 weeks and to s
 It’s okay to be nervous and to not understand everything. We’re not here to leave you high and dry when things get tough. These check-ins will be about 1 hour long and will be conducted via Zoom or Google Meet. Bring all of your questions and concerns to these meetings and get support with the pre-work. It is also a way for your instructors to assess your progress, so come prepared to write code and answer questions.
 
 ### Group Office Hours 
-We will be conducting two group meetings where the instructor(s) will answer any questions you have up until that point and also review a coding challenge to help you understand the thought process of a DevOps engineer. 
+We will be conducting two group meetings where the instructors will answer any questions you have up until that point and also review a coding challenge to help you understand the thought process of a DevOps engineer. 
 
 ### Contact Us
 The best way to reach us is via Slack @chandradeoarya or @BenjaminCohen or you can also email us at chandra@codeplatoon.org or benjamin@codeplatoon.org
