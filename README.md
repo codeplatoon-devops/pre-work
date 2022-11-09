@@ -51,12 +51,10 @@ The requirements for getting into the full-time program are:
 > We need to clarify what grading/passing looks like as precisely as possible
 
 #### CoderByte
-The programming assignments can be found on CoderByte. CoderByte is a service that tests your Python coding knowledge. You can find the link to the coding challenges in the [Calendar](#calendar) section below.  
-
-You don’t have to complete every challenge right away but please make sure you complete all the challenges by the end of the pre-work, and ideally pace yourself to complete the relevant challenges the week they are assigned. 
+The pre-work includes some programming assignments you can complete on CoderByte. CoderByte is a service that tests your Python coding knowledge. You can find the link to the coding challenges below in [Module 4](#module-4---programming-intro-10-days).
 
 #### Repl.it
-[Replit.com](http://replit.com) is a service that allows you to write and execute code in the browser. First, visit the site and create a new account, which is free. This is a great resource to help you practice your coding skills. *You can copy and paste the challenges from CoderByte into Repl.it and complete them and then submit the code on CoderByte*. Here is a [Replit tutorial](https://www.youtube.com/watch?v=zURQVKo0Th8).
+[Replit.com](http://replit.com) is a service that allows you to write and execute code in the browser. First, visit the site and create a new account, which is free. This is a great resource to help you practice your coding skills. You can (and should) copy and paste the challenges from CoderByte into Repl.it so you can see your code running in real time and experiment, and when you feel ready youy can submit the code on CoderByte*. Here is a [Replit tutorial](https://www.youtube.com/watch?v=zURQVKo0Th8).
 
 #### Final Live Technical/Coding Assessment
 Before you officially start Code Platoon, you need to pass our Technical Assessment. This will occur after Week 4 of the pre-work (or earlier if you think you’re ready). You will schedule to meet with one of our instructors remotely and they will give you a link to answer a set of multiple choice questions. Finally there will be a coding challenge to solve. Both of these assessments will happen in front of the instructor. This is to ensure that you are proficient enough to attend Code Platoon. 
@@ -70,18 +68,20 @@ This course has two types of learning material. The first is provided by AWS as 
 
 ### Self-paced learning (AWS)
 
-The goal of this section is for you to acquire an AWS Cloud Practitioner certification, which is a non-technical certification that expects no pre-knowledge. You can learn more about the exam and schedule it [here](https://aws.amazon.com/certification/certified-cloud-practitioner/).
+In order to complete the pre-work you will be required to acquire an AWS Cloud Practitioner certification, which is a non-technical certification that expects no pre-knowledge but will get you up to speed on AWS as a platform. You can learn more about the exam and schedule it [here](https://aws.amazon.com/certification/certified-cloud-practitioner/).
 
 To help you pass the certification exam we recommend two free resources provided directly from AWS. 
 
 - An [official course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) that covers all the exam material
 - An [AWS Certified Cloud Practitioner Exam preparation course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner) specifically designed to help you understand what to expect from the exam itself
 
+- Note: The first few modules of this course will be part of the weekly pre-work, but the rest of the modules (6-11) and the final assessment should be covered at your own pace simply to be prepared for things that may be covered on the certification exam.
+
 ### Weekly pre-work (Code Platoon)
 
 > Chandra suggested the split in days below, but I don't know that this will work effectively, we likely want to simplify it by simply making 4 modules, each a week long.
 
-> Chandra turned me onto [this](https://www.youtube.com/playlist?list=PLu0CiQ7bzwETXXnwbmvG5D7nXGHddArBP) playlist of pre-recorded Code Platoon branded videos on diff topics relevant to this intro work. I haven't watched them yet but it would be great to use our own resources when appropriate over external resources.
+> Chandra turned me on to [this](https://www.youtube.com/playlist?list=PLu0CiQ7bzwETXXnwbmvG5D7nXGHddArBP) playlist of pre-recorded Code Platoon branded videos on diff topics relevant to this intro work. I haven't watched them yet but it would be great to use our own resources when appropriate over external resources.
 
 #### Module 1 - Intro to internet (2 days)
 - [a great 5 minute high level overview](https://www.youtube.com/watch?v=7_LPdttKXPc)
@@ -98,11 +98,9 @@ To help you pass the certification exam we recommend two free resources provided
 #### Module 3 - Components of networks and databases (3 days)
 - [REST APIs](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
 - [short intro to databases](https://www.youtube.com/watch?v=wR0jg0eQsZA)
-- [more in depth database explanations](https://www.youtube.com/watch?v=hRulZhTtUTg)
-- Complete AWS CPE Module 4 - Networking (this covers the networking, naturally)
-- Complete AWS CPE Module 5 - Storage & Databases (self explanatory)
-
-> The rest of the AWS CPE course (modules 6-11 and the final assessment) should be covered at their own pace simply to pass the exam, though it may go above most people's heads (security, pricing, monitoring, support, migrating from on-premise, future certs and career paths in cloud computing)
+- [more in depth database explanation](https://www.youtube.com/watch?v=hRulZhTtUTg)
+- Complete AWS CPE Module 4 - Networking
+- Complete AWS CPE Module 5 - Storage & Databases
 
 #### Module 4 - Programming intro (10 days)
 - [Our own written tutorial - intro](/python_fundamentals.md) 
@@ -141,7 +139,6 @@ We will be conducting two group meetings where the instructors will answer any q
 
 ### Contact Us
 The best way to reach us is via Slack @chandradeoarya or @BenjaminCohen or you can also email us at chandra@codeplatoon.org or benjamin@codeplatoon.org
-
 
 Please let us know if you have any questions! 
 
