@@ -1,14 +1,8 @@
 # DevOps Course Pre-Work
 
-> @BenjaminCohen here. I'm going to use these 'asides' to add comments.
-
-> My main goals for this document are: 
-> 1) We want to set clear expectations about what the pre-work is and what is expected in terms of effort and what passing means *precisely* and
-> 2) Everything we expect them to learn and that we link to as an external learning resource should have some kind of complementary quiz to test the material. I don't think it will be useful to the instructors or the students to throw a bunch of links at them that we never test them on, as the students will likely not engage with it deeply, and as an instructor we cannot actually expect that knowledge has already been absorbed.
-
 ## 📜 Course Description
 
-Congratulations on your acceptance into Code Platoon - we are excited to have you! To best prepare you for the rigors of DevOps engineering and our immersive bootcamp, we have created a pre-work program. This document will outline all the things you need to do in order to show up prepared for the first day. Please read through it carefully and let us know if you have any questions.
+Congratulations on your acceptance into Code Platoon - we are excited to have you! This pre-work program was created to best prepare you for the rigors of our immersive bootcamp and ultimately for a professional role as a DevOps engineer. This document will outline all the things you need to do in order to show up prepared on the first day. Please read through it carefully and let us know if you have any questions.
 
 ## 📚 Expectations
 
@@ -29,7 +23,7 @@ We expect you to both be responsive and organized in communicating with Code Pla
 * There will be a few check-in meetings, such as:
   - *Mandatory* Group Intro Call
   - *Mandatory* Group Check-in call (half way through the pre-work) 
-  - *Optional* Group Office Hours (1 hour, we will be available to answer any questions)
+  - *Optional* Group Office Hours (1 hour weekly, we will be available to answer any questions)
 
 ### Pre-work requirements
 
@@ -48,85 +42,77 @@ The requirements for getting into the full-time program are:
 * Solve all of our Python programming challenges on CoderByte
 * Pass the final Live Technical Assessment
 
-> We need to clarify what grading/passing looks like as precisely as possible
-
 #### CoderByte
-The pre-work includes some programming assignments you can complete on CoderByte. CoderByte is a service that tests your Python coding knowledge. You can find the link to the coding challenges below in [Module 4](#module-4---programming-intro-10-days).
+The pre-work includes some programming assignments you can complete on CoderByte. CoderByte is a service that tests your Python coding knowledge.
+> Note to applicants: the CoderByte challenges are going to default to JavaScript as a language but there is a dropdown to select the language of your choice. Choose Python3.
 
 #### Repl.it
-[Replit.com](http://replit.com) is a service that allows you to write and execute code in the browser. First, visit the site and create a new account, which is free. This is a great resource to help you practice your coding skills. You can (and should) copy and paste the challenges from CoderByte into Repl.it so you can see your code running in real time and experiment, and when you feel ready youy can submit the code on CoderByte*. Here is a [Replit tutorial](https://www.youtube.com/watch?v=zURQVKo0Th8).
+[Replit.com](http://replit.com) is a service that allows you to write and execute code in the browser. First, visit the site and create a new account, which is free. This is a great resource to help you practice your coding skills. You can (and should) copy and paste the challenges from CoderByte into Repl.it so you can see your code running in real time and experiment, and when you feel ready you can submit the code on CoderByte*. Here is a [Replit tutorial](https://www.youtube.com/watch?v=zURQVKo0Th8).
 
 #### Final Live Technical/Coding Assessment
-Before you officially start Code Platoon, you need to pass our Technical Assessment. This will occur after Week 4 of the pre-work (or earlier if you think you’re ready). You will schedule to meet with one of our instructors remotely and they will give you a link to answer a set of multiple choice questions. Finally there will be a coding challenge to solve. Both of these assessments will happen in front of the instructor. This is to ensure that you are proficient enough to attend Code Platoon. 
+Before you officially start Code Platoon, you need to pass our Technical Assessment. This will occur after Week 4 of the pre-work (or earlier if you think you’re ready). You will schedule to meet with one of our instructors remotely and they will give you a link to answer a set of multiple choice questions. Finally there will be a coding challenge to solve. Both of these assessments will happen in front of the instructor. This is to ensure that you are proficient enough to attend Code Platoon.
 
 #### Computer Requirements
-For the Pre-Work you can do everything in any browser. 
+For the Pre-Work you can do everything in any browser.
 
 ## 🗓 Calendar
 
-This course has two types of learning material. The first is provided by AWS as an official course and certification to prove essential knowledge about the field of cloud computing and is not technically-oriented. The second will be provided by Code Platoon to add to this understanding with basic programming proficiency that we will expect you to walk in with day 1.
+This course has two types of learning material. The first is provided by AWS as an official course and certification to prove essential knowledge about the field of cloud computing and is not technically-oriented (i.e. no programming background required). The second will be provided by Code Platoon to add to this understanding with basic programming proficiency that we will expect you to walk in with day 1.
 
-### Self-paced learning (AWS)
+### AWS Cloud Practitioner Certification
 
 In order to complete the pre-work you will be required to acquire an AWS Cloud Practitioner certification, which is a non-technical certification that expects no pre-knowledge but will get you up to speed on AWS as a platform. You can learn more about the exam and schedule it [here](https://aws.amazon.com/certification/certified-cloud-practitioner/).
 
-To help you pass the certification exam we recommend two free resources provided directly from AWS. 
+To help you prepare for the certification exam we strongly recommend you take the official AWS SkillBuilder course [AWS Cloud Practioner Essentials](ttps://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials). We will be assigning modules (which include videos and short multiple choice quizzes) from this course as part of the pre-work with your ultimate goal being to pass the certification exam.
 
-- An [official course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) that covers all the exam material
-- An [AWS Certified Cloud Practitioner Exam preparation course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner) specifically designed to help you understand what to expect from the exam itself
+### Weekly Schedule
 
-- Note: The first few modules of this course will be part of the weekly pre-work, but the rest of the modules (6-11) and the final assessment should be covered at your own pace simply to be prepared for things that may be covered on the certification exam.
+#### Week 1 - Intro to the Internet and Web Applications
+- [A great 5 minute high level overview](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [A slightly more technical intro covering basic server architecture](https://youtu.be/9J1nJOivdyw)
+- [An overview of backend web development](https://youtu.be/XBu54nfzxAQ)
+- Complete AWS Cloud Practioner Essentials Module 1 - Introduction to AWS. This covers the basics of 'the internet' and the use cases for cloud computing.
+- Complete AWS Cloud Practioner Essentials Module 2 - Compute in the Cloud. This covers the client-server model and EC2.
+- Complete AWS Cloud Practioner Essentials Module 3 - Global Infrastrucute and Reliability. This covers the selling point for AWS as a globally distrubuted network.
 
-### Weekly pre-work (Code Platoon)
+#### Week 2 - Networking and Databases
+- [What is a REST API?](https://youtu.be/lsMQRaeKNDk)
+- [Intro to databases](https://www.youtube.com/watch?v=wR0jg0eQsZA)
+- [A slightly more in-depth explanation of a relational database (SQL)](https://www.youtube.com/watch?v=OqjJjpjDRLc)
+- Complete AWS Cloud Practioner Essentials Module 4 - Networking
+- Complete AWS Cloud Practioner Essentials Module 5 - Storage & Databases
 
-> Chandra suggested the split in days below, but I don't know that this will work effectively, we likely want to simplify it by simply making 4 modules, each a week long.
-
-> Chandra turned me on to [this](https://www.youtube.com/playlist?list=PLu0CiQ7bzwETXXnwbmvG5D7nXGHddArBP) playlist of pre-recorded Code Platoon branded videos on diff topics relevant to this intro work. I haven't watched them yet but it would be great to use our own resources when appropriate over external resources.
-
-#### Module 1 - Intro to internet (2 days)
-- [a great 5 minute high level overview](https://www.youtube.com/watch?v=7_LPdttKXPc)
-- Complete AWS Cloud Practioner Essentials Module 1 - Introduction to AWS (this covers the basics of 'the internet' and the use cases for cloud computing)
-
-
-#### Module 2 - Basics of multi-tier applications (3 days)
-
-- App infrastructure [part 1](https://www.youtube.com/watch?v=e4S8zfLdLgQ) and [part 2](https://www.youtube.com/watch?v=FTAPjr7vgxE)
-- Complete AWS CPE Module 2 - Compute in the Cloud + quizzes (this covers the client-server model and EC2)
-- Complete AWS CPE Module 3 - Global Infrastrucute and Reliability (this covers the selling point for AWS as a globally distrubuted network)
-
-
-#### Module 3 - Components of networks and databases (3 days)
-- [REST APIs](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
-- [short intro to databases](https://www.youtube.com/watch?v=wR0jg0eQsZA)
-- [more in depth database explanation](https://www.youtube.com/watch?v=hRulZhTtUTg)
-- Complete AWS CPE Module 4 - Networking
-- Complete AWS CPE Module 5 - Storage & Databases
-
-#### Module 4 - Programming intro (10 days)
-- [Our own written tutorial - intro](/python_fundamentals.md) 
-- [Our own written tutorial - intermediate](/python_intermediate.md) 
-- [Intro to Python tutorial](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+#### Week 3 - Programming in Python
+- [Scrimba interactive Python tutorial](https://scrimba.com/learn/python/course-introduction-c9Bv3wc8)
+- [Code Platoon written tutorial - intro](/python_fundamentals.md) 
+- [Code Platoon written tutorial - intermediate](/python_intermediate.md) 
 - [Object Oriented Programming in Python](https://youtu.be/JeznW_7DlB0)
-- [CoderByte Challenges](https://coderbyte.com/sl-candidate?promo=codeplatoon-13p1p:technical-asses-x9bqbaveyk)
+- **Mandatory Coding Assessment** [CoderByte Challenges](https://coderbyte.com/sl-candidate?promo=codeplatoon-13p1p:technical-asses-x9bqbaveyk)
+- Complete AWS Cloud Practioner Essentials Module 6 - Security
+- Complete AWS Cloud Practioner Essentials Module 7 - Monitoring & Analytics
+- Complete AWS Cloud Practioner Essentials Module 8 - Pricing & Support
+> Note to applicants: From module 6 on the AWS Cloud Practioner Essentials course is not especially aligned with the weekly pre-work, but it's necessary to continue the course in preparation for the certification exam.
 
-> I need the 'author' link for the CoderByte challenge so I can change the default language to Python3
-
-#### Module 5 - Git and github (5 days)
+#### Module 5 - Git and GitHub
 - [Introduction to The Command Line](https://youtu.be/DR0KPYX8Tvw)
 - [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [Intro to VS Code](https://code.visualstudio.com/docs/getstarted/introvideos)
 - [Intro to Git & Github](https://youtu.be/SWYqp7iY_Tc)
+- [Git vs Github: What's the Difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
+- Complete AWS Cloud Practioner Essentials Module 9 - Migration & Innovation
+- Complete AWS Cloud Practioner Essentials Module 10 - The Cloud Journey
+- Complete AWS Cloud Practioner Essentials Module 11 - The Cloud Journey
+- Complete AWS Cloud Practioner Essentials Final Assessment (practice exam)
+- [Schedule and take the AWS Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
 
 #### Extra Credit
 - [Harvard CS50 Intro to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
-> this is way too long to expect anyone to complete in time but it's a good single comprehensive resource to point our more eager students towards
-
+> Note to applicants: We only included one resource here but it is a great one! It is unlikely you will have enough time to complete it, but it is a great place to focus your efforts until the course begins.
 
 ## 👨‍💻 Final Assessment
 
-Final Live Technical and Coding Assessment (must be completed by Xth May, 2023)
-
-> need to set exact date
+Final Live Technical and Coding Assessment (must be completed by April 10, 2023)
 
 ### Intro Call
 This intro call is to outline what’s expected over the next 4-6 weeks and to show you what resources you have at your disposal. An email will be sent out with the date and time of this Intro call and how to join. 
@@ -140,6 +126,4 @@ We will be conducting two group meetings where the instructors will answer any q
 ### Contact Us
 The best way to reach us is via Slack @chandradeoarya or @BenjaminCohen or you can also email us at chandra@codeplatoon.org or benjamin@codeplatoon.org
 
-Please let us know if you have any questions! 
-
-
+Please let us know if you have any questions!
