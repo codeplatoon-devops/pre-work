@@ -102,4 +102,4 @@ It’s okay to be nervous and to not understand everything. We’re not here to 
 We will be conducting weekly office hours where the instructors will answer any questions you have up until that point and also review a coding challenge to help you understand the thought process of a DevOps engineer. 
 
 ### Contact Us
-The best way to reach us is via Slack `@chandradeoarya` or `@BenjaminCohen`. You can also email us at chandra@codeplatoon.org or benjamin@codeplatoon.org. Please let us know if you have any questions!
+The best way to reach us is via Slack `@chandradeoarya` or `@AdamCahan`. You can also email us at chandra@codeplatoon.org or adam@codeplatoon.org. Please let us know if you have any questions!
