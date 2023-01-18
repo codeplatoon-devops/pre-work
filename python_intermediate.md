@@ -1,4 +1,4 @@
-# Wednesday, January 11, 2023
+# Intermediate Python
 
 ## Topics Covered / Goals
 - Understand lambda functions
@@ -6,8 +6,6 @@
 - Understand ternary statements
 - Understand list comprehensions
 - Understand Try-Except error handling
-
-## Lesson
 
 ### Lambda functions
 - temporary, unnamed ("anonymous") functions

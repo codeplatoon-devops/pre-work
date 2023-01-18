@@ -1,6 +1,6 @@
 # Python Fundamentals
 
-- Originally came out in 1991
+- Python originally came out in 1991.
 - Python is a dynamically-typed, high-level language, meaning that variable types can change (i.e., I can set `some_variable = 'string'` and then change `some_variable = 1` or `some_variable = False` in the same program
   - In statically-typed lanuages like Java or C, you have to declare what type of data that variable can hold ahead of time. After you declare it, it can't be changed again
 - Programming languages can be high or low level languages
