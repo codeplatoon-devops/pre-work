@@ -2,11 +2,18 @@
 
 ## 📜 Course Description
 
-Congratulations on your acceptance into Code Platoon - we are excited to have you! This pre-work program was created to best prepare you for the rigors of our immersive bootcamp and ultimately for a professional role as a DevOps engineer. This document will outline all the things you need to do in order to be prepared on the first day. Please read through it carefully and let us know if you have any questions.
+Congratulations on your acceptance into Code Platoon - we are excited to have you! This pre-work program will prepare you for the challenge of our immersive bootcamp and ultimately for a professional role as a DevOps engineer. This document will outline all the things you need to do in order to be prepared on the first day. Please read through it carefully and let us know if you have any questions.
 
 ## 📚 Expectations
 
-Code Platoon’s mission is to train military veterans and their spouses into professional DevOps engineers. The traditional approach to becoming a DevOps engineer usually begins with graduating from a 4 year university program in computer science and then working as a backend engineer for a few years. We’re trying to teach you the necessary skills in 4 months. As such, we are not going to be able to go into nearly as much background material as a traditional degree and our course will focus much more on the practical tools of the trade. The DevOps industry ultimately cares about one thing: “Can you deploy this codebase?” As a result, our course will be oriented around teaching you the skills necessary to accomplish this task in the timeframe we have available to us.
+Code Platoon’s mission is to train military veterans and their spouses into professional DevOps engineers. The traditional approach to becoming a DevOps engineer usually begins with graduating from a 4 year university program in computer science, and then working as a backend engineer for a few years. We’re trying to teach you the necessary skills in 4 months. In order to accomplish this, our course focuses on project-based learning, applied skills, and the the practical tools of the trade. 
+
+The software industry generally, and, the DevOps industry, is a world of applied skills. Conceptual knowledge is critical, but ultimately the industry evaluates you by what you can **do**. In technical interviews for DevOps roles you will have to demonstrate applied knowledge -- technical interview are auditions. What the DevOps industry cares about is, “Can you deploy this codebase?” 
+
+Our course will teach you the core skills necessary to accomplish this task, and, we will teach some of the fundamental technologies and concepts which will become the foundation of your career as you continue to learn and grow.
+
+In order to accomplish this, we ask and require of you to be proactive, to **ask questions**, to aim for mastery, to work as a team with your fellow students and instructors, and, be focused. 
+
 
 ### Our Mission
 
@@ -27,7 +34,7 @@ We expect you to be both responsive and organized in communicating with your ins
 For pre-work, you will be expected to watch the online tutorials we suggest, attend weekly group video conferences, and solve programming challenges on CoderByte. Additionally, over the full course of the pre-work you will be expected to complete the AWS SkillBuilder Cloud Practitioner course in preparation for the certification exam. At the end of the prework, you will have a live technical assessment with one of our instructors.
 
 ##### CoderByte & Python
-The pre-work includes some programming assignments you can complete in CoderByte. CoderByte is a service that tests your Python coding knowledge. Please note that CoderByte will default your programming language to JavaScript but you can choose Python3 via a dropdown.
+The pre-work includes some programming assignments you can complete in CoderByte. CoderByte is a service that tests your Python coding knowledge. **Please note that CoderByte will default your programming language to JavaScript but you can choose Python3 via a dropdown.**
 
 If you are able to write Python code and run it locally on your machine, continue to do so. If you aren't sure how to get Python set up on your local machine, you can use [Replit.com](http://replit.com). Replit is a service that allows you to write and execute code in the browser. First, visit the site and create a new account, which is free. This is a great resource to help you practice your coding skills. You can (and should) copy and paste the challenges from CoderByte into Repl.it so you can see your code running in real time and experiment, and when you feel ready you can submit the code on CoderByte. Here is a [Replit tutorial](https://www.youtube.com/watch?v=zURQVKo0Th8).
 
@@ -45,9 +52,18 @@ This course has two types of learning material. The first is provided by AWS as 
 
 In order to complete the pre-work you will be required to acquire an AWS Cloud Practitioner certification, which is a non-technical certification that expects no pre-knowledge but will get you up to speed on AWS as a platform and the basics of cloud computing. You can learn more about the exam and schedule it [here](https://aws.amazon.com/certification/certified-cloud-practitioner/).
 
-To help you prepare for the certification exam we strongly recommend you take the official AWS SkillBuilder course [AWS Cloud Practioner Essentials](ttps://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials). We will be assigning modules (which include videos and short multiple choice quizzes) from this course as part of the pre-work with your ultimate goal being to pass the certification exam.
+To help you prepare for the certification exam we strongly recommend you take the official AWS SkillBuilder course [AWS Cloud Practioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials). We will be assigning modules (which include videos and short multiple choice quizzes) from this course as part of the pre-work with your ultimate goal being to pass the certification exam.
+
+In conjunction or as an alternative to the AWS SkillBuilder Course, interactive tutorial/game [AWS CloudQuest: Cloud Practictioner](https://aws.amazon.com/training/digital/aws-cloud-quest/) is also quite good and will have you provision actual AWS Services. **We recommend at minimum trying the initial levels of the game to see which approach you prefer.**
 
 ### Weekly Schedule
+
+#### How to study
+For tutorial videos and articles, **take notes.** The physical act of taking notes has been shown to increase retention of information. 
+
+For tutorials involving writing code or using the command line, **code along**, and, **take the time to research & understand what you are doing as you go.** 
+
+Everything covered here is something you will **use.**
 
 #### Week 1 - Intro to the Internet and Web Applications
 We'll have an intro call during this first week where we will outline what’s expected over the next 4-6 weeks and to show you what resources you have at your disposal. An email will be sent out with the date and time of this Intro call and how to join. 
@@ -58,7 +74,7 @@ We'll have an intro call during this first week where we will outline what’s e
 - Complete AWS Cloud Practioner Essentials Module 2 - Compute in the Cloud. This covers the client-server model and EC2.
 - Complete AWS Cloud Practioner Essentials Module 3 - Global Infrastrucute and Reliability. This covers the selling point for AWS as a globally distrubuted network.
 
-#### Week 2 - Networking and Databases
+#### Week 2 - Networking & Databases
 - [What is a REST API?](https://youtu.be/lsMQRaeKNDk)
 - [Intro to databases](https://www.youtube.com/watch?v=wR0jg0eQsZA)
 - [A slightly more in-depth explanation of a relational database (SQL)](https://www.youtube.com/watch?v=OqjJjpjDRLc)
@@ -78,6 +94,7 @@ We'll have an intro call during this first week where we will outline what’s e
 
 #### Week 4 - Git and GitHub
 - [Introduction to The Command Line](https://youtu.be/DR0KPYX8Tvw)
+- [Command Line tutorial](https://tutorial.djangogirls.org/en/intro_to_command_line/)
 - [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [Intro to VS Code](https://code.visualstudio.com/docs/getstarted/introvideos)
 - [Intro to Git & Github](https://youtu.be/SWYqp7iY_Tc)
@@ -88,6 +105,20 @@ We'll have an intro call during this first week where we will outline what’s e
 - Complete AWS Cloud Practioner Essentials Final Assessment (practice exam)
 - [Schedule and take the AWS Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 - Schedule a time with the instructors to take the final live technical/coding assessment. This must be completed by April 10, 2023
+
+#### Week 5 - The Command-line Environment and SSH
+Windows users - [install wsl](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [Linux Survival - a beginner-friendly, interactive command line tutorial](https://linuxsurvival.com/)
+- [Terminus - a beginner-friendly, interactive command line tutorial game ](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+- [Background reading on Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Java/CMS.590Game2FinalReport.pdf)
+- [Read about SSH](https://www.hostinger.com/tutorials/ssh-tutorial-how-does-ssh-work)
+- [Set up an SSH key with your Github Account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+
+#### Week 6 - More Command Line 
+- [A more in-depth course on the shell](https://missing.csail.mit.edu/2020/course-shell/)
+- [A more in-depth course on the terminal](https://missing.csail.mit.edu/2020/command-line/)
+
 
 #### Extra Credit
 - [Harvard CS50 Intro to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
