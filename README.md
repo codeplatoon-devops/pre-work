@@ -123,6 +123,7 @@ Windows users - [install wsl](https://learn.microsoft.com/en-us/windows/wsl/inst
 #### Extra Credit
 - [Harvard CS50 Intro to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
 > Note to applicants: We only included one resource here but it is a great one! It is unlikely you will have enough time to complete it, but it is a great place to focus your efforts until the course begins.
+- [A more advanced shell scripting tutorial](https://missing.csail.mit.edu/2020/shell-tools/_
 
 ## 👨‍💻 Resources
 
