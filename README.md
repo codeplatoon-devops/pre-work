@@ -50,7 +50,7 @@ This course has two types of learning material. The first is provided by AWS as 
 
 ### AWS Cloud Practitioner Certification
 
-In order to complete the pre-work you will be required to acquire an AWS Cloud Practitioner certification, which is a non-technical certification that expects no pre-knowledge but will get you up to speed on AWS as a platform and the basics of cloud computing. You can learn more about the exam and schedule it [here](https://aws.amazon.com/certification/certified-cloud-practitioner/).
+In order to complete the pre-work you will be required to acquire an AWS Cloud Practitioner certification, which is a certification that expects no pre-knowledge but will get you up to speed on AWS as a platform and the basics of cloud computing. You can learn more about the exam and schedule it [here](https://aws.amazon.com/certification/certified-cloud-practitioner/).
 
 To help you prepare for the certification exam we strongly recommend you take the official AWS SkillBuilder course [AWS Cloud Practioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials). We will be assigning modules (which include videos and short multiple choice quizzes) from this course as part of the pre-work with your ultimate goal being to pass the certification exam.
 
