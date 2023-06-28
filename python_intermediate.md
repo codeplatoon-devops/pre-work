@@ -127,13 +127,14 @@ anything.say_hello()
 ```
 We just created two files: `file1.py` and `file2.py`. `file1.py` has a `say_hello` function. `file2.py` has nothing in it, but imports that file in as the name of the file and we can use all the methods in that file. We can also rewrite it as `import file1 as anything` and call `anything.say_hello()`. You can `import` anything into your file by providing the correct relative path to the file. More on that can be found under external resources.
 
-## Resources
+## Required Reading
+
 - [Python Modules](https://www.tutorialspoint.com/python/python_modules.htm)
 
 ## Assignments
 
-- [Armstrong Numbers](https://github.com/codeplatoon-devops/algo-armstrong-numbers)
-- [Sum Pairs](https://github.com/codeplatoon-devops/algo-sum-pairs)
-- [Credit Check](https://github.com/codeplatoon-devops/algo-credit-check)
-- [Anagrams I](https://github.com/codeplatoon-devops/algo-anagrams-i)
-- [Debugging One](https://github.com/codeplatoon-devops/algo-debugging-one)
+- [Armstrong Numbers](/algo-armstrong-numbers)
+- [Sum Pairs](/algo-sum-pairs)
+- [Credit Check](/algo-credit-check)
+- [Anagrams I](/algo-anagrams-i)
+- [Debugging One](/algo-debugging-one)
