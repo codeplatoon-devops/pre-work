@@ -83,8 +83,8 @@ We'll have an intro call during this first week where we will outline what’s e
 
 #### Week 3 - Programming in Python
 - [Scrimba interactive Python tutorial](https://scrimba.com/learn/python/course-introduction-c9Bv3wc8)
-- [Code Platoon written tutorial - intro](/python_fundamentals.md) 
-- [Code Platoon written tutorial - intermediate](/python_intermediate.md) 
+- [Code Platoon written tutorial - intro](/python_fundamentals.md)
+- [Code Platoon written tutorial - intermediate](/python_intermediate.md)
 - [Object Oriented Programming in Python](https://youtu.be/JeznW_7DlB0)
 - **[Mandatory CoderByte Assessment](https://coderbyte.com/sl-candidate?promo=codeplatoon-13p1p:technical-asses-x9bqbaveyk)**
 - Complete AWS Cloud Practioner Essentials Module 6 - Security
