@@ -108,6 +108,7 @@ We'll have an intro call during this first week where we will outline what’s e
 
 #### Week 5 - The Command-line Environment and SSH
 Windows users - [install wsl](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [Terminal Tutor - learn the command line interactively](https://www.terminaltutor.com/tutorial-contents)
 - [Linux Survival - a beginner-friendly, interactive command line tutorial](https://linuxsurvival.com/)
 - [Terminus - a beginner-friendly, interactive command line tutorial game ](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 - [Background reading on Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Java/CMS.590Game2FinalReport.pdf)
